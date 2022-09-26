@@ -1,0 +1,45 @@
+.col-style {
+    background-color: blue;
+    border: 1px solid white;
+    height: 50px;
+}
+
+.col-style-2 {
+    background-color: green;
+    border: 1px solid white;
+    height: 100%;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 50px;
+}
+
+.box-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100%;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-box{
+    display: flex;
+    color: white;
+    width: 90%;
+    height: 80%;
+    background-color: green;
+}
+
+.mg-btt {
+    margin-bottom: 15px;
+}
